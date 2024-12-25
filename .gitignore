@@ -21,6 +21,8 @@
 *.patch
 *.cfgtmp
 *.img
+*.gz
+*.digest
 
 # host programs on Cygwin
 *.exe
